@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoyNtaji
 - 👀 I’m interested in Data Analytics and visualization 
-- 🌱 I’m currently learning Data Analytics and visualization using Excel, Power-BI, Python
+- 🌱 I’m currently learning Data Analysis and visualization using Excel, Power-BI, Python
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 I can be reached via LinkedIn@www.linkedin.com/in/joy-ntaji-a90352204, or email:ntajijoy@gmail.com
 
